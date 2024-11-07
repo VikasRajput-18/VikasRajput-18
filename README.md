@@ -8,13 +8,11 @@ technical expertise, I take pride in translating designs into interactive and re
 
 - 🔭 I’m currently working on [eSkoops](https://dev-env.eskoops.com/marketplace)
 
-- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **vikasvikas988099@gmail.com**
 
-- ⚡ Fun fact **I am an anime fan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
